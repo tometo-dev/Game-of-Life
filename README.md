@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Conway's Game of Life
+
+For more info, refer to [this](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) wikipedia article.
+
+This was created following <em>Ben Awad's</em> video tutorial on youtube, which can be found [here](https://www.youtube.com/watch?v=DvVt11mPuM0)
 
 ## Available Scripts
 
